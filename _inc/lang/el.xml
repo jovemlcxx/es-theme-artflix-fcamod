@@ -12,9 +12,6 @@
       <labelManufacturer>ΚΑΤΑΣΚΕΥΑΣΤΗΣ:</labelManufacturer>
       <labelDeveloper>ΠΡΟΓΡΑΜΜΑΤΙΣΤΗΣ:</labelDeveloper>
       <selectedLanguage>Επιλεγμένη γλώσσα: EL</selectedLanguage>
-      <videoLabel>Τυχαίο βίντεο</videoLabel>
-      <enabledLabel>Ναι</enabledLabel>
-      <disabledLabel>Όχι</disabledLabel>
       <aspectRatioLabel>Αναλογία οθόνης</aspectRatioLabel>
    </variables>
 </theme>

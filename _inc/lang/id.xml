@@ -12,9 +12,6 @@
       <labelManufacturer>PRODUSEN:</labelManufacturer>
       <labelDeveloper>PENGEMBANG:</labelDeveloper>
       <selectedLanguage>Bahasa Terpilih: ID</selectedLanguage>
-      <videoLabel>Video Acak</videoLabel>
-      <enabledLabel>Ya</enabledLabel>
-      <disabledLabel>Tidak</disabledLabel>
       <aspectRatioLabel>Rasio Layar</aspectRatioLabel>
    </variables>
 </theme>

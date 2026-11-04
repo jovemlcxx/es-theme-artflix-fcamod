@@ -12,9 +12,6 @@
       <labelManufacturer>ПРОИЗВОДИТЕЛЬ:</labelManufacturer>
       <labelDeveloper>РАЗРАБОТЧИК:</labelDeveloper>
       <selectedLanguage>Выбранный язык: RU</selectedLanguage>
-      <videoLabel>Случайное видео</videoLabel>
-      <enabledLabel>Да</enabledLabel>
-      <disabledLabel>Нет</disabledLabel>
       <aspectRatioLabel>Соотношение сторон</aspectRatioLabel>
    </variables>
 </theme>

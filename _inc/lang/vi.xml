@@ -12,9 +12,6 @@
       <labelManufacturer>NHÀ SẢN XUẤT:</labelManufacturer>
       <labelDeveloper>NHÀ PHÁT TRIỂN:</labelDeveloper>
       <selectedLanguage>Ngôn ngữ đã chọn: VI</selectedLanguage>
-      <videoLabel>Video ngẫu nhiên</videoLabel>
-      <enabledLabel>Có</enabledLabel>
-      <disabledLabel>Không</disabledLabel>
       <aspectRatioLabel>Tỷ lệ màn hình</aspectRatioLabel>
    </variables>
 </theme>

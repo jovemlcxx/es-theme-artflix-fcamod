@@ -12,9 +12,6 @@
       <labelManufacturer>FABRIKANT:</labelManufacturer>
       <labelDeveloper>ONTWIKKELAAR:</labelDeveloper>
       <selectedLanguage>Gekozen Taal: NL</selectedLanguage>
-      <videoLabel>Willekeurige Video</videoLabel>
-      <enabledLabel>Ja</enabledLabel>
-      <disabledLabel>Nee</disabledLabel>
       <aspectRatioLabel>Beeldverhouding</aspectRatioLabel>
    </variables>
 </theme>

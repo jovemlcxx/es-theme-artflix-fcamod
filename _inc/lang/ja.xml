@@ -12,9 +12,6 @@
       <labelManufacturer>メーカー:</labelManufacturer>
       <labelDeveloper>開発元:</labelDeveloper>
       <selectedLanguage>選択中の言語: JA</selectedLanguage>
-      <videoLabel>ランダム動画</videoLabel>
-      <enabledLabel>はい</enabledLabel>
-      <disabledLabel>いいえ</disabledLabel>
       <aspectRatioLabel>画面比率</aspectRatioLabel>
    </variables>
 </theme>

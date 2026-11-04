@@ -12,9 +12,6 @@
       <labelManufacturer>GYÁRTÓ:</labelManufacturer>
       <labelDeveloper>FEJLESZTŐ:</labelDeveloper>
       <selectedLanguage>Kiválasztott nyelv: HU</selectedLanguage>
-      <videoLabel>Véletlen videó</videoLabel>
-      <enabledLabel>Igen</enabledLabel>
-      <disabledLabel>Nem</disabledLabel>
       <aspectRatioLabel>Képarány</aspectRatioLabel>
    </variables>
 </theme>

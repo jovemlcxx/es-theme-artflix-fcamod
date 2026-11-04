@@ -12,9 +12,6 @@
       <labelManufacturer>TILLVERKARE:</labelManufacturer>
       <labelDeveloper>UTVECKLARE:</labelDeveloper>
       <selectedLanguage>Valt språk: SV</selectedLanguage>
-      <videoLabel>Slumpad video</videoLabel>
-      <enabledLabel>Ja</enabledLabel>
-      <disabledLabel>Nej</disabledLabel>
       <aspectRatioLabel>Bildförhållande</aspectRatioLabel>
    </variables>
 </theme>

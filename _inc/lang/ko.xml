@@ -12,9 +12,6 @@
       <labelManufacturer>제조사:</labelManufacturer>
       <labelDeveloper>개발사:</labelDeveloper>
       <selectedLanguage>선택한 언어: KO</selectedLanguage>
-      <videoLabel>무작위 영상</videoLabel>
-      <enabledLabel>예</enabledLabel>
-      <disabledLabel>아니요</disabledLabel>
       <aspectRatioLabel>화면 비율</aspectRatioLabel>
    </variables>
 </theme>

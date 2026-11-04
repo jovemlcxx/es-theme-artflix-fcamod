@@ -12,9 +12,6 @@
       <labelManufacturer>FABRICANTE:</labelManufacturer>
       <labelDeveloper>DESARROLLADOR:</labelDeveloper>
       <selectedLanguage>Idioma Seleccionado: ES</selectedLanguage>
-      <videoLabel>Vídeo Aleatorio</videoLabel>
-      <enabledLabel>Sí</enabledLabel>
-      <disabledLabel>No</disabledLabel>
       <aspectRatioLabel>Relación de Aspecto</aspectRatioLabel>
    </variables>
 </theme>

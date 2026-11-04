@@ -23,8 +23,8 @@ Deixe o **MODO DE VISUALIZAÇÃO, LISTA DE JOGO** e o **TAMANHO DA GRADE** do fr
 
 ## O tema
 
-- **Tela de sistemas (o "Default Artflix" do original):** a arte do sistema de fundo com o degradê escuro, o logo ARTFLIX, o nome em letras grandes, ano e fabricante / desenvolvedor, a descrição, o botão vermelho **JOGAR AGORA** e o botão com contorno com o número de jogos, um vídeo aleatório de jogo do sistema embaixo à esquerda e o **carrossel vertical de logos** à direita (o selecionado é o grande).
-- **Lista de jogos:** a imagem do jogo é o fundo, o wheel do jogo à esquerda, nome, desenvolvedor, gênero, ano, nota e descrição à direita, e uma fileira de **capas** (3:4: a imagem do jogo com o wheel por cima) embaixo, a selecionada com moldura vermelha. A coluna de ícones na borda esquerda do original: manual, save state e conquistas (apagados: o ES-fcamod não tem esses dados), o controle com o número de jogadores e as estrelas da nota.
+- **Tela de sistemas (o "Default Artflix" do original):** a arte do sistema de fundo com o degradê escuro, o logo ARTFLIX, o nome em letras grandes, ano e fabricante / desenvolvedor, a descrição, o botão vermelho **JOGAR AGORA** e o botão com contorno com o número de jogos, e o **carrossel vertical de logos** à direita (o selecionado é o grande).
+- **Lista de jogos:** a imagem do jogo é o fundo (e o **vídeo** do jogo, quando ele tem, preenche o fundo alguns segundos depois de você selecionar o jogo), o wheel do jogo à esquerda, nome, desenvolvedor, gênero, ano, nota e descrição à direita, e uma fileira de **capas** (3:4: a imagem do jogo com o wheel por cima) embaixo, a selecionada com moldura vermelha. A coluna de ícones na borda esquerda do original: manual, save state e conquistas (apagados: o ES-fcamod não tem esses dados), o controle com o número de jogadores e as estrelas da nota.
 - **Legenda dos botões** embaixo, com os ícones do original; relógio e bateria na mesma linha.
 - O **menu** do original (títulos vermelhos, texto cinza, seletor vermelho).
 - **26 idiomas** em todos os rótulos e botões; a descrição de cada sistema vem nos idiomas que o original tem (inglês, português, espanhol, francês, alemão e chinês), em inglês nos outros.
@@ -35,7 +35,6 @@ Deixe o **MODO DE VISUALIZAÇÃO, LISTA DE JOGO** e o **TAMANHO DA GRADE** do fr
 | Opção | Escolhas (padrão primeiro) | Observações |
 |---|---|---|
 | Proporção de Tela | 4:3 | Telas 640×480 (R36S, RG351MP...). |
-| Vídeo Aleatório | Sim / Não | O vídeo aleatório de jogo do sistema embaixo à esquerda da tela de sistemas (precisa de vídeos raspados). |
 
 ## Compatibilidade
 
@@ -50,7 +49,7 @@ O que foi realmente testado, e como:
 - ✅ **Validado no aparelho** (R36S): tela de sistemas, lista de jogos, relógio, bateria, legenda dos botões, menu, capas e molduras.
 - 🧪 **Aguardando retorno:** mesma família de frontend e mesmos elementos de tema dos outros temas da série, que são conferidos contra o EmulationStation de cada sistema.
 
-Limites do fcamod que um tema não consegue mudar: os logos não selecionados do carrossel são desenhados com 50 % de opacidade, não há animações nem shaders, não existem dados de manual / save state / conquistas (os ícones deles na lista de jogos ficam apagados e fixos), nome de jogo com mais de duas linhas é cortado e o vídeo de um jogo não toca sobre a imagem dele na lista (o vídeo aleatório da tela de sistemas toca).
+Limites do fcamod que um tema não consegue mudar: os logos não selecionados do carrossel são desenhados com 50 % de opacidade, não há animações nem shaders, não existem dados de manual / save state / conquistas (os ícones deles na lista de jogos ficam apagados e fixos), nome de jogo com mais de duas linhas é cortado e o vídeo de um jogo só toca depois de o jogo ficar alguns segundos selecionado.
 
 **Ajude a testar o seu sistema:** me conte qual é o sistema, a versão e o que parece errado, [abrindo uma issue](https://github.com/jovemlcxx/es-theme-artflix-fcamod/issues) ou [pelo Reddit](https://www.reddit.com/user/jovemlcxx/) (u/jovemlcxx).
 

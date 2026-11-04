@@ -23,8 +23,8 @@ Leave the frontend's **Gamelist View Style** and **Grid Size** on **automatic**:
 
 ## The theme
 
-- **System view (the base's "Default Artflix"):** the art of the system as the background with the dark gradient, the ARTFLIX logo, the name in big letters, year and manufacturer / developer, the description, the red **PLAY NOW** button and the outlined button with the number of games, a random game video of the system at the bottom left, and the **vertical carousel of logos** at the right (the selected one is the big one).
-- **Game list:** the game's image is the background, the game's wheel at the left, name, developer, genre, year, rating and description at the right, and a row of **covers** (3:4: the game's image with its wheel over it) at the bottom, the selected one with a red frame. The column of icons at the left edge of the base: manual, save state and achievements (dim: ES-fcamod has no data for them), the gamepad with the number of players and the rating stars.
+- **System view (the base's "Default Artflix"):** the art of the system as the background with the dark gradient, the ARTFLIX logo, the name in big letters, year and manufacturer / developer, the description, the red **PLAY NOW** button and the outlined button with the number of games, and the **vertical carousel of logos** at the right (the selected one is the big one).
+- **Game list:** the game's image is the background (and the game's **video**, when it has one, fills it a few seconds after you select the game), the game's wheel at the left, name, developer, genre, year, rating and description at the right, and a row of **covers** (3:4: the game's image with its wheel over it) at the bottom, the selected one with a red frame. The column of icons at the left edge of the base: manual, save state and achievements (dim: ES-fcamod has no data for them), the gamepad with the number of players and the rating stars.
 - **Button legend** at the bottom, with the base's own icons; clock and battery on the same line.
 - The base's **menu** (red titles, grey text, red selector).
 - **26 languages** for every label and button; the description of each system is in the languages the base has (English, Portuguese, Spanish, French, German and Chinese), English in the others.
@@ -35,7 +35,6 @@ Leave the frontend's **Gamelist View Style** and **Grid Size** on **automatic**:
 | Option | Choices (default first) | Notes |
 |---|---|---|
 | Aspect Ratio | 4:3 | 640×480 screens (R36S, RG351MP...). |
-| Random Video | Yes / No | The random game video of the system at the bottom left of the system view (needs scraped videos). |
 
 ## Compatibility
 
@@ -50,7 +49,7 @@ What has actually been tested, and how:
 - ✅ **Validated on real hardware** (R36S): system view, game list, clock, battery, button legend, menu, covers and frames.
 - 🧪 **Waiting for feedback:** same frontend family and same theme elements as the other themes of the series, which are checked against each system's EmulationStation.
 
-Known limits of fcamod that a theme cannot change: unselected logos of the carousel are drawn at 50 % opacity, there are no animations, no shaders and no manual / save state / achievements data (their icons in the game list are dim and fixed), a game name longer than two lines is cut, and a game's video does not play over its image in the list (the random video of the system view does).
+Known limits of fcamod that a theme cannot change: unselected logos of the carousel are drawn at 50 % opacity, there are no animations, no shaders and no manual / save state / achievements data (their icons in the game list are dim and fixed), a game name longer than two lines is cut, and the video of a game only plays once the game has been selected for a few seconds.
 
 **Help test your system:** tell me your system, its version and what looks wrong, by [opening an issue](https://github.com/jovemlcxx/es-theme-artflix-fcamod/issues) or [on Reddit](https://www.reddit.com/user/jovemlcxx/) (u/jovemlcxx).
 

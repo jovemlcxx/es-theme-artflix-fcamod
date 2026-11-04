@@ -12,9 +12,6 @@
       <labelManufacturer>PRODUCĂTOR:</labelManufacturer>
       <labelDeveloper>DEZVOLTATOR:</labelDeveloper>
       <selectedLanguage>Limba selectată: RO</selectedLanguage>
-      <videoLabel>Video aleatoriu</videoLabel>
-      <enabledLabel>Da</enabledLabel>
-      <disabledLabel>Nu</disabledLabel>
       <aspectRatioLabel>Raport de aspect</aspectRatioLabel>
    </variables>
 </theme>

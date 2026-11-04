@@ -12,9 +12,6 @@
       <labelManufacturer>FABRICANT:</labelManufacturer>
       <labelDeveloper>DESENVOLUPADOR:</labelDeveloper>
       <selectedLanguage>Idioma seleccionat: CA</selectedLanguage>
-      <videoLabel>Vídeo aleatori</videoLabel>
-      <enabledLabel>Sí</enabledLabel>
-      <disabledLabel>No</disabledLabel>
       <aspectRatioLabel>Relació d'aspecte</aspectRatioLabel>
    </variables>
 </theme>

@@ -12,9 +12,6 @@
       <labelManufacturer>ВИРОБНИК:</labelManufacturer>
       <labelDeveloper>РОЗРОБНИК:</labelDeveloper>
       <selectedLanguage>Обрана мова: UK</selectedLanguage>
-      <videoLabel>Випадкове відео</videoLabel>
-      <enabledLabel>Так</enabledLabel>
-      <disabledLabel>Ні</disabledLabel>
       <aspectRatioLabel>Співвідношення сторін</aspectRatioLabel>
    </variables>
 </theme>

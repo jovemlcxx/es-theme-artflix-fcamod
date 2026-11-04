@@ -12,9 +12,6 @@
       <labelManufacturer>ÜRETİCİ:</labelManufacturer>
       <labelDeveloper>GELİŞTİRİCİ:</labelDeveloper>
       <selectedLanguage>Seçilen Dil: TR</selectedLanguage>
-      <videoLabel>Rastgele Video</videoLabel>
-      <enabledLabel>Evet</enabledLabel>
-      <disabledLabel>Hayır</disabledLabel>
       <aspectRatioLabel>Ekran Oranı</aspectRatioLabel>
    </variables>
 </theme>

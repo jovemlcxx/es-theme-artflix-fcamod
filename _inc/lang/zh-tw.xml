@@ -12,9 +12,6 @@
       <labelManufacturer>生產商:</labelManufacturer>
       <labelDeveloper>開發商:</labelDeveloper>
       <selectedLanguage>當前選擇語言: 中文(台灣)</selectedLanguage>
-      <videoLabel>隨機影片</videoLabel>
-      <enabledLabel>是</enabledLabel>
-      <disabledLabel>否</disabledLabel>
       <aspectRatioLabel>螢幕比例</aspectRatioLabel>
    </variables>
 </theme>

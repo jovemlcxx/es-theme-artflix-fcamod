@@ -28,9 +28,6 @@
       <labelManufacturer>MANUFACTURER:</labelManufacturer>
       <labelDeveloper>DEVELOPER:</labelDeveloper>
       <selectedLanguage>Selected Language: EN(US)</selectedLanguage>
-      <videoLabel>Random Video</videoLabel>
-      <enabledLabel>Yes</enabledLabel>
-      <disabledLabel>No</disabledLabel>
    </variables>
    <!-- Translations: one file per language, included only for that language (ES-fcamod stops reading <variables> blocks at the first
         one whose lang does not match, so they cannot all live in this file). They must come before the subsets, whose names use them. -->
@@ -62,11 +59,6 @@
    <include lang="id">./_inc/lang/id.xml</include>
    <subset name="aspect-ratio" displayName="${aspectRatioLabel}">
       <include name="4-3" displayName="4:3" />
-   </subset>
-   <!-- the video at the bottom left of the system view: a random game video of the system (the base's "Random Video" option, on by default) -->
-   <subset name="random-video" displayName="${videoLabel}">
-      <include name="yes" displayName="${enabledLabel}">./_inc/video-enabled.xml</include>
-      <include name="no" displayName="${disabledLabel}">./_inc/video-disabled.xml</include>
    </subset>
 
    <!-- navigation sounds: the base's own (scroll01) -->
@@ -265,7 +257,6 @@
          <forceUppercase>true</forceUppercase>
          <zIndex>43</zIndex>
       </text>
-      <!-- the random game video of the system (video-enabled.xml) -->
       <!-- the vertical carousel of logos at the right: the selected one is the big one in the middle -->
       <carousel name="systemcarousel">
          <type>vertical</type>
@@ -324,6 +315,16 @@
          <minSize>1 1</minSize>
          <zIndex>5</zIndex>
       </image>
+      <!-- the game's video (when it has one) fills the background the same way, a few seconds after the game is selected; until then the image stays -->
+      <video name="md_video">
+         <origin>0.5 0.5</origin>
+         <pos>0.5 0.5</pos>
+         <minSize>1 1</minSize>
+         <delay>3</delay>
+         <showSnapshotNoVideo>false</showSnapshotNoVideo>
+         <showSnapshotDelay>false</showSnapshotDelay>
+         <zIndex>6</zIndex>
+      </video>
       <!-- the selected game, at the left: only its wheel (the game's image is already the background) -->
       <image name="md_marquee">
          <zIndex>36</zIndex>

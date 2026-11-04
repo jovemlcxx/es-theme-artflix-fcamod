@@ -12,9 +12,6 @@
       <labelManufacturer>PRODUSENT:</labelManufacturer>
       <labelDeveloper>UTVIKLER:</labelDeveloper>
       <selectedLanguage>Valgt språk: NO</selectedLanguage>
-      <videoLabel>Tilfeldig video</videoLabel>
-      <enabledLabel>Ja</enabledLabel>
-      <disabledLabel>Nei</disabledLabel>
       <aspectRatioLabel>Skjermformat</aspectRatioLabel>
    </variables>
 </theme>

@@ -12,9 +12,6 @@
       <labelManufacturer>VÝROBCE:</labelManufacturer>
       <labelDeveloper>VÝVOJÁŘ:</labelDeveloper>
       <selectedLanguage>Zvolený jazyk: CS</selectedLanguage>
-      <videoLabel>Náhodné video</videoLabel>
-      <enabledLabel>Ano</enabledLabel>
-      <disabledLabel>Ne</disabledLabel>
       <aspectRatioLabel>Poměr stran</aspectRatioLabel>
    </variables>
 </theme>

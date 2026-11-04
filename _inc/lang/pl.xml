@@ -12,9 +12,6 @@
       <labelManufacturer>PRODUCENT:</labelManufacturer>
       <labelDeveloper>DEWELOPER:</labelDeveloper>
       <selectedLanguage>Wybrany język: PL</selectedLanguage>
-      <videoLabel>Losowy film</videoLabel>
-      <enabledLabel>Tak</enabledLabel>
-      <disabledLabel>Nie</disabledLabel>
       <aspectRatioLabel>Proporcje ekranu</aspectRatioLabel>
    </variables>
 </theme>

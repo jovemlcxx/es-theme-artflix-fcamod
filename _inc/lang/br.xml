@@ -12,9 +12,6 @@
       <labelManufacturer>FABRICANTE:</labelManufacturer>
       <labelDeveloper>DESENVOLVEDOR:</labelDeveloper>
       <selectedLanguage>Idioma Selecionado: PT(BR)</selectedLanguage>
-      <videoLabel>Vídeo Aleatório</videoLabel>
-      <enabledLabel>Sim</enabledLabel>
-      <disabledLabel>Não</disabledLabel>
       <aspectRatioLabel>Proporção de Tela</aspectRatioLabel>
    </variables>
 </theme>
