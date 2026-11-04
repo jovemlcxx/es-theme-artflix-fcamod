@@ -70,7 +70,7 @@ Files are named after the system's `<theme>` entry in `es_systems.cfg` (e.g. `sn
 
 **This theme is a fork of [Alekfull ARTFLIX](https://github.com/fagnerpc/Alekfull-ARTFLIX) by fagnerpc** (https://facebook.com/alekfull.arcade): the art, logos, texts, icons, fonts, sounds, buttons, colours and the whole look are his; this repository only adapts them to EmulationStation-fcamod at 640×480. The base is **not authorized for commercial use**, and neither is this fork. Not affiliated with Netflix. The fonts (Circular Std, Open Sans) are the base's.
 
-Selling it, alone or bundled with devices, SD cards or images, is not allowed. See [LICENSE](LICENSE).
+**License:** [CC BY-NC-SA 4.0](LICENSE), the same as my other themes. Free: selling it, alone or bundled with devices, SD cards or images, is not allowed.
 
 **Support:** if this theme is useful to you, you can support my work on [Ko-fi](https://ko-fi.com/jovemlcxx). Thank you! ☕
 
