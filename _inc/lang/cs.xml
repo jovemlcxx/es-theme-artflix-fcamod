@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="cs">
+      <playNow>HRÁT NYNÍ</playNow>
+      <helpMenu>MENU</helpMenu>
+      <helpRandom>NÁHODNĚ</helpRandom>
+      <helpSelect>VYBRAT</helpSelect>
+      <helpChoose>PROCHÁZET</helpChoose>
+      <helpFavorite>OBLÍBENÉ</helpFavorite>
+      <helpLaunch>SPUSTIT</helpLaunch>
+      <helpBack>ZPĚT</helpBack>
+      <labelManufacturer>VÝROBCE:</labelManufacturer>
+      <labelDeveloper>VÝVOJÁŘ:</labelDeveloper>
+      <selectedLanguage>Zvolený jazyk: CS</selectedLanguage>
+      <videoLabel>Náhodné video</videoLabel>
+      <enabledLabel>Ano</enabledLabel>
+      <disabledLabel>Ne</disabledLabel>
+      <aspectRatioLabel>Poměr stran</aspectRatioLabel>
+   </variables>
+</theme>

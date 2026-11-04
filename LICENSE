@@ -1,0 +1,10 @@
+ARTFLIX Theme for EmulationStation-fcamod (es-theme-artflix-fcamod)
+
+This theme is a fork of "Alekfull ARTFLIX" by fagnerpc (https://github.com/fagnerpc/Alekfull-ARTFLIX).
+The art, logos, texts, icons, fonts, sounds, colours and the look of the theme are the work of the original author and of the owners of the
+trademarks they show; they are used here under the terms of the original theme, which is NOT AUTHORIZED FOR COMMERCIAL USE.
+
+The layout files for EmulationStation-fcamod (theme.xml, aspect-ratio-4-3.xml, _inc/legend.xml, _inc/video-*.xml, the language files) and the
+scripts that adapt the art are by jovemlcxx and are shared under CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+You may not sell this theme, alone or bundled with devices, SD cards or disk images.

@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="it">
+      <playNow>GIOCA ORA</playNow>
+      <helpMenu>MENU</helpMenu>
+      <helpRandom>CASUALE</helpRandom>
+      <helpSelect>SELEZIONA</helpSelect>
+      <helpChoose>SCEGLI</helpChoose>
+      <helpFavorite>PREFERITO</helpFavorite>
+      <helpLaunch>AVVIA</helpLaunch>
+      <helpBack>INDIETRO</helpBack>
+      <labelManufacturer>PRODUTTORE:</labelManufacturer>
+      <labelDeveloper>SVILUPPATORE:</labelDeveloper>
+      <selectedLanguage>Lingua Selezionata: IT</selectedLanguage>
+      <videoLabel>Video Casuale</videoLabel>
+      <enabledLabel>Sì</enabledLabel>
+      <disabledLabel>No</disabledLabel>
+      <aspectRatioLabel>Proporzioni Schermo</aspectRatioLabel>
+   </variables>
+</theme>

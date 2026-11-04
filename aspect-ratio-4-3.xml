@@ -1,0 +1,171 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <!-- 4:3 (640x480), laid out as fractions of the screen. The base is 16:9: its left text column keeps its proportions (the text is wider here, the screen is taller),
+        the vertical carousel of logos stays on the right (5 logos, the selected one 1.3 times bigger) and the buttons are redrawn (images in _inc/images). -->
+   <view name="screen">
+      <batteryIndicator name="batteryIndicator">
+         <pos>0.7475 0.9480</pos>
+         <size>0.1 0.045</size>
+      </batteryIndicator>
+      <text name="clock">
+         <pos>0.8 0.9480</pos>
+         <size>0.17 0.045</size>
+         <fontSize>0.03</fontSize>
+         <alignment>right</alignment>
+      </text>
+   </view>
+
+   <view name="system">
+      <image name="e_artflix" extra="true">
+         <pos>0.03 0.05</pos>
+         <size>0.085 0</size>
+      </image>
+      <text name="info6" extra="true">
+         <pos>0.135 0.045</pos>
+         <size>0.5 0.045</size>
+         <fontSize>0.021</fontSize>
+      </text>
+      <text name="info2" extra="true">
+         <pos>0.03 0.115</pos>
+         <size>0.54 0.36</size>
+         <fontSize>0.07</fontSize>
+      </text>
+      <text name="info3" extra="true">
+         <pos>0.03 0.35</pos>
+         <size>0.07 0.05</size>
+         <fontSize>0.026</fontSize>
+      </text>
+      <text name="e_bar" extra="true">
+         <pos>0.092 0.35</pos>
+         <size>0.02 0.05</size>
+         <fontSize>0.03</fontSize>
+      </text>
+      <text name="info5" extra="true">
+         <pos>0.12 0.35</pos>
+         <size>0.2 0.05</size>
+         <fontSize>0.024</fontSize>
+      </text>
+      <text name="info4" extra="true">
+         <pos>0.335 0.35</pos>
+         <size>0.25 0.05</size>
+         <fontSize>0.024</fontSize>
+      </text>
+      <text name="info1" extra="true">
+         <pos>0.03 0.405</pos>
+         <size>0.5 0.2</size>
+         <fontSize>0.027</fontSize>
+      </text>
+      <image name="e_btn_play" extra="true">
+         <pos>0.03 0.635</pos>
+         <size>0.19 0.056</size>
+      </image>
+      <image name="e_btn_games" extra="true">
+         <pos>0.235 0.635</pos>
+         <size>0.27 0.056</size>
+      </image>
+      <text name="playbutton" extra="true">
+         <pos>0.045 0.635</pos>
+         <size>0.14 0.056</size>
+         <fontSize>0.021</fontSize>
+      </text>
+      <text name="systemInfo">
+         <pos>0.235 0.635</pos>
+         <size>0.27 0.056</size>
+         <fontSize>0.018</fontSize>
+      </text>
+      <carousel name="systemcarousel">
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <logoSize>0.21 0.11</logoSize>
+         <maxLogoCount>6</maxLogoCount>
+         <origin>0 0</origin>
+      </carousel>
+   </view>
+
+   <view name="grid">
+      <image name="e_artflix" extra="true">
+         <pos>0.08 0.05</pos>
+         <size>0.085 0</size>
+      </image>
+      <image name="e_pad" extra="true">
+         <pos>0.185 0.048</pos>
+         <size>0.03 0.04</size>
+      </image>
+      <image name="md_marquee">
+         <pos>0.245 0.36</pos>
+         <maxSize>0.32 0.40</maxSize>
+         <origin>0.5 0.5</origin>
+      </image>
+      <text name="md_name">
+         <pos>0.44 0.12</pos>
+         <size>0.53 0.11</size>
+         <fontSize>0.04</fontSize>
+      </text>
+      <text name="md_developer">
+         <pos>0.44 0.235</pos>
+         <size>0.53 0.04</size>
+         <fontSize>0.026</fontSize>
+      </text>
+      <text name="md_genre">
+         <pos>0.44 0.28</pos>
+         <size>0.36 0.04</size>
+         <fontSize>0.026</fontSize>
+      </text>
+      <datetime name="md_releasedate">
+         <pos>0.82 0.28</pos>
+         <size>0.15 0.04</size>
+         <fontSize>0.026</fontSize>
+      </datetime>
+      <!-- the base's column of icons at the left edge (x 0.03 centre) -->
+      <image name="e_i_manual" extra="true">
+         <pos>0.03 0.075</pos>
+         <size>0.034 0.045</size>
+         <origin>0.5 0.5</origin>
+      </image>
+      <image name="e_i_save" extra="true">
+         <pos>0.03 0.130</pos>
+         <size>0.034 0.045</size>
+         <origin>0.5 0.5</origin>
+      </image>
+      <image name="e_i_cheevos" extra="true">
+         <pos>0.03 0.185</pos>
+         <size>0.034 0.045</size>
+         <origin>0.5 0.5</origin>
+      </image>
+      <image name="e_i_players" extra="true">
+         <pos>0.03 0.240</pos>
+         <size>0.042 0.045</size>
+         <origin>0.5 0.5</origin>
+      </image>
+      <text name="md_players">
+         <pos>0.03 0.285</pos>
+         <size>0.06 0.03</size>
+         <origin>0.5 0.5</origin>
+         <fontSize>0.022</fontSize>
+      </text>
+      <rating name="md_rating">
+         <pos>0.03 0.40</pos>
+         <size>0.13 0.03</size>
+         <origin>0.5 0.5</origin>
+         <rotation>-90</rotation>
+      </rating>
+      <text name="md_description">
+         <pos>0.44 0.345</pos>
+         <size>0.53 0.255</size>
+         <fontSize>0.028</fontSize>
+      </text>
+      <imagegrid name="gamegrid">
+         <pos>0.02 0.655</pos>
+         <size>0.96 0.24</size>
+         <autoLayout>7 1</autoLayout>
+         <margin>0.005 0</margin>
+         <padding>0.003 0.003 0.003 0.003</padding>
+      </imagegrid>
+      <gridtile name="default">
+         <size>0.13 0.23</size>
+      </gridtile>
+      <gridtile name="selected">
+         <size>0.13 0.23</size>
+      </gridtile>
+   </view>
+</theme>

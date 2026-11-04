@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="no,nb">
+      <playNow>SPILL NÅ</playNow>
+      <helpMenu>MENY</helpMenu>
+      <helpRandom>TILFELDIG</helpRandom>
+      <helpSelect>VELG</helpSelect>
+      <helpChoose>BLA</helpChoose>
+      <helpFavorite>FAVORITT</helpFavorite>
+      <helpLaunch>START</helpLaunch>
+      <helpBack>TILBAKE</helpBack>
+      <labelManufacturer>PRODUSENT:</labelManufacturer>
+      <labelDeveloper>UTVIKLER:</labelDeveloper>
+      <selectedLanguage>Valgt språk: NO</selectedLanguage>
+      <videoLabel>Tilfeldig video</videoLabel>
+      <enabledLabel>Ja</enabledLabel>
+      <disabledLabel>Nei</disabledLabel>
+      <aspectRatioLabel>Skjermformat</aspectRatioLabel>
+   </variables>
+</theme>

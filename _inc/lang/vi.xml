@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="vi">
+      <playNow>CHƠI NGAY</playNow>
+      <helpMenu>MENU</helpMenu>
+      <helpRandom>NGẪU NHIÊN</helpRandom>
+      <helpSelect>CHỌN</helpSelect>
+      <helpChoose>DUYỆT</helpChoose>
+      <helpFavorite>YÊU THÍCH</helpFavorite>
+      <helpLaunch>CHẠY</helpLaunch>
+      <helpBack>QUAY LẠI</helpBack>
+      <labelManufacturer>NHÀ SẢN XUẤT:</labelManufacturer>
+      <labelDeveloper>NHÀ PHÁT TRIỂN:</labelDeveloper>
+      <selectedLanguage>Ngôn ngữ đã chọn: VI</selectedLanguage>
+      <videoLabel>Video ngẫu nhiên</videoLabel>
+      <enabledLabel>Có</enabledLabel>
+      <disabledLabel>Không</disabledLabel>
+      <aspectRatioLabel>Tỷ lệ màn hình</aspectRatioLabel>
+   </variables>
+</theme>

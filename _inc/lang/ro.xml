@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="ro">
+      <playNow>JOACĂ ACUM</playNow>
+      <helpMenu>MENIU</helpMenu>
+      <helpRandom>ALEATORIU</helpRandom>
+      <helpSelect>SELECTEAZĂ</helpSelect>
+      <helpChoose>ALEGE</helpChoose>
+      <helpFavorite>FAVORIT</helpFavorite>
+      <helpLaunch>PORNEȘTE</helpLaunch>
+      <helpBack>ÎNAPOI</helpBack>
+      <labelManufacturer>PRODUCĂTOR:</labelManufacturer>
+      <labelDeveloper>DEZVOLTATOR:</labelDeveloper>
+      <selectedLanguage>Limba selectată: RO</selectedLanguage>
+      <videoLabel>Video aleatoriu</videoLabel>
+      <enabledLabel>Da</enabledLabel>
+      <disabledLabel>Nu</disabledLabel>
+      <aspectRatioLabel>Raport de aspect</aspectRatioLabel>
+   </variables>
+</theme>

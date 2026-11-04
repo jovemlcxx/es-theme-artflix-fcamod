@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="ja">
+      <playNow>今すぐプレイ</playNow>
+      <helpMenu>メニュー</helpMenu>
+      <helpRandom>ランダム</helpRandom>
+      <helpSelect>選択</helpSelect>
+      <helpChoose>選ぶ</helpChoose>
+      <helpFavorite>お気に入り</helpFavorite>
+      <helpLaunch>起動</helpLaunch>
+      <helpBack>戻る</helpBack>
+      <labelManufacturer>メーカー:</labelManufacturer>
+      <labelDeveloper>開発元:</labelDeveloper>
+      <selectedLanguage>選択中の言語: JA</selectedLanguage>
+      <videoLabel>ランダム動画</videoLabel>
+      <enabledLabel>はい</enabledLabel>
+      <disabledLabel>いいえ</disabledLabel>
+      <aspectRatioLabel>画面比率</aspectRatioLabel>
+   </variables>
+</theme>

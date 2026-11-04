@@ -1,0 +1,14 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <view name="system">
+      <text name="info1" extra="true"><text>A complete decompilation of Sonic Mania</text></text>
+      <text name="info1" extra="true" lang="pt,br"><text>Uma descompilação completa de Sonic Mania</text></text>
+      <text name="info1" extra="true" lang="es"><text>Una descompilación completa de Sonic Mania</text></text>
+      <text name="info1" extra="true" lang="fr"><text>Une décompilation complète de Sonic Mania</text></text>
+      <text name="info1" extra="true" lang="de"><text>Eine vollständige Dekompilierung von Sonic Mania</text></text>
+      <text name="info2" extra="true"><text>Sonic Mania</text></text>
+      <text name="info3" extra="true"><text>2017</text></text>
+      <text name="info4" extra="true"><text>Sonic Mania</text></text>
+      <text name="info5" extra="true"><text>${labelDeveloper}</text></text>
+   </view>
+</theme>

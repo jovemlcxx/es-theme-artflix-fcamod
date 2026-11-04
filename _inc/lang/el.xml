@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="el">
+      <playNow>ΠΑΙΞΕ ΤΩΡΑ</playNow>
+      <helpMenu>ΜΕΝΟΥ</helpMenu>
+      <helpRandom>ΤΥΧΑΙΟ</helpRandom>
+      <helpSelect>ΕΠΙΛΟΓΗ</helpSelect>
+      <helpChoose>ΠΛΟΗΓΗΣΗ</helpChoose>
+      <helpFavorite>ΑΓΑΠΗΜΕΝΟ</helpFavorite>
+      <helpLaunch>ΕΚΚΙΝΗΣΗ</helpLaunch>
+      <helpBack>ΠΙΣΩ</helpBack>
+      <labelManufacturer>ΚΑΤΑΣΚΕΥΑΣΤΗΣ:</labelManufacturer>
+      <labelDeveloper>ΠΡΟΓΡΑΜΜΑΤΙΣΤΗΣ:</labelDeveloper>
+      <selectedLanguage>Επιλεγμένη γλώσσα: EL</selectedLanguage>
+      <videoLabel>Τυχαίο βίντεο</videoLabel>
+      <enabledLabel>Ναι</enabledLabel>
+      <disabledLabel>Όχι</disabledLabel>
+      <aspectRatioLabel>Αναλογία οθόνης</aspectRatioLabel>
+   </variables>
+</theme>

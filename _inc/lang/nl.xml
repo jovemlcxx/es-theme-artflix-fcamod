@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="nl">
+      <playNow>NU SPELEN</playNow>
+      <helpMenu>MENU</helpMenu>
+      <helpRandom>WILLEKEURIG</helpRandom>
+      <helpSelect>SELECTEREN</helpSelect>
+      <helpChoose>KIEZEN</helpChoose>
+      <helpFavorite>FAVORIET</helpFavorite>
+      <helpLaunch>STARTEN</helpLaunch>
+      <helpBack>TERUG</helpBack>
+      <labelManufacturer>FABRIKANT:</labelManufacturer>
+      <labelDeveloper>ONTWIKKELAAR:</labelDeveloper>
+      <selectedLanguage>Gekozen Taal: NL</selectedLanguage>
+      <videoLabel>Willekeurige Video</videoLabel>
+      <enabledLabel>Ja</enabledLabel>
+      <disabledLabel>Nee</disabledLabel>
+      <aspectRatioLabel>Beeldverhouding</aspectRatioLabel>
+   </variables>
+</theme>

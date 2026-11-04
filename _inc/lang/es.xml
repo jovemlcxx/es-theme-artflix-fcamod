@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="es">
+      <playNow>JUGAR AHORA</playNow>
+      <helpMenu>MENÚ</helpMenu>
+      <helpRandom>ALEATORIO</helpRandom>
+      <helpSelect>SELECCIONAR</helpSelect>
+      <helpChoose>ELEGIR</helpChoose>
+      <helpFavorite>FAVORITO</helpFavorite>
+      <helpLaunch>EJECUTAR</helpLaunch>
+      <helpBack>VOLVER</helpBack>
+      <labelManufacturer>FABRICANTE:</labelManufacturer>
+      <labelDeveloper>DESARROLLADOR:</labelDeveloper>
+      <selectedLanguage>Idioma Seleccionado: ES</selectedLanguage>
+      <videoLabel>Vídeo Aleatorio</videoLabel>
+      <enabledLabel>Sí</enabledLabel>
+      <disabledLabel>No</disabledLabel>
+      <aspectRatioLabel>Relación de Aspecto</aspectRatioLabel>
+   </variables>
+</theme>

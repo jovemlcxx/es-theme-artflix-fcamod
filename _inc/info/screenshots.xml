@@ -1,0 +1,34 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <view name="system">
+      <text name="info1" extra="true"><text>Take screenshots of your best games and highscores then show them to your friends.
+Who will be the best player ...
+God Bless Retro Games!</text></text>
+      <text name="info1" extra="true" lang="pt,br"><text>Tire screenshots dos seus melhores jogos e highscores depois mostre aos seus amigos.
+			Quem será o melhor jogador...
+			God Bless Retro Games!</text></text>
+      <text name="info1" extra="true" lang="es"><text>Toma capturas de pantalla de tus mejores juegos y mejores puntuaciones,
+luego muéstrales a tus amigos.
+¿Quién será el mejor jugador ...
+¡Dios bendiga a Retro Games!</text></text>
+      <text name="info1" extra="true" lang="fr"><text>Prenez des captures d'écran de vos meilleurs jeux et scores,
+puis montrez-les à vos amis.
+Qui sera le meilleur joueur ...
+			God Bless Retro Games !</text></text>
+      <text name="info1" extra="true" lang="de"><text>Machen Sie Screenshots Ihrer besten Spiele und Highscores und zeigen Sie sie dann Ihren Freunden.
+Wer wird der beste Spieler ...
+Gott segne Retro-Spiele!</text></text>
+      <text name="info1" extra="true" lang="zh-cn,zh"><text>截取你最精彩的游戏和高分截图，然后向你的朋友们展示。</text></text>
+      <text name="info1" extra="true" lang="zh-tw"><text>截取你最精彩的遊戲和高分截圖，然後向你的朋友展示。</text></text>
+      <text name="info2" extra="true"><text>Image Viewer</text></text>
+      <text name="info2" extra="true" lang="pt,br"><text>Galeria de Imagens</text></text>
+      <text name="info2" extra="true" lang="es"><text>Visor de Imágenes</text></text>
+      <text name="info2" extra="true" lang="fr"><text>Visionneuse d'images</text></text>
+      <text name="info2" extra="true" lang="de"><text>Bildbetrachter</text></text>
+      <text name="info2" extra="true" lang="zh-cn,zh"><text>查看图片</text></text>
+      <text name="info2" extra="true" lang="zh-tw"><text>查看圖片</text></text>
+      <text name="info3" extra="true"><text>20XX</text></text>
+      <text name="info4" extra="true"><text></text></text>
+      <text name="info5" extra="true"><text>${labelManufacturer}</text></text>
+   </view>
+</theme>

@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="uk,ua">
+      <playNow>ГРАТИ</playNow>
+      <helpMenu>МЕНЮ</helpMenu>
+      <helpRandom>ВИПАДКОВО</helpRandom>
+      <helpSelect>ВИБРАТИ</helpSelect>
+      <helpChoose>ВИБІР</helpChoose>
+      <helpFavorite>УЛЮБЛЕНЕ</helpFavorite>
+      <helpLaunch>ЗАПУСК</helpLaunch>
+      <helpBack>НАЗАД</helpBack>
+      <labelManufacturer>ВИРОБНИК:</labelManufacturer>
+      <labelDeveloper>РОЗРОБНИК:</labelDeveloper>
+      <selectedLanguage>Обрана мова: UK</selectedLanguage>
+      <videoLabel>Випадкове відео</videoLabel>
+      <enabledLabel>Так</enabledLabel>
+      <disabledLabel>Ні</disabledLabel>
+      <aspectRatioLabel>Співвідношення сторін</aspectRatioLabel>
+   </variables>
+</theme>

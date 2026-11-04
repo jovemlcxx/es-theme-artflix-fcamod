@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="ko">
+      <playNow>지금 플레이</playNow>
+      <helpMenu>메뉴</helpMenu>
+      <helpRandom>무작위</helpRandom>
+      <helpSelect>선택</helpSelect>
+      <helpChoose>고르기</helpChoose>
+      <helpFavorite>즐겨찾기</helpFavorite>
+      <helpLaunch>실행</helpLaunch>
+      <helpBack>뒤로</helpBack>
+      <labelManufacturer>제조사:</labelManufacturer>
+      <labelDeveloper>개발사:</labelDeveloper>
+      <selectedLanguage>선택한 언어: KO</selectedLanguage>
+      <videoLabel>무작위 영상</videoLabel>
+      <enabledLabel>예</enabledLabel>
+      <disabledLabel>아니요</disabledLabel>
+      <aspectRatioLabel>화면 비율</aspectRatioLabel>
+   </variables>
+</theme>

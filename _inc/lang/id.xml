@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="id">
+      <playNow>MAIN SEKARANG</playNow>
+      <helpMenu>MENU</helpMenu>
+      <helpRandom>ACAK</helpRandom>
+      <helpSelect>PILIH</helpSelect>
+      <helpChoose>JELAJAH</helpChoose>
+      <helpFavorite>FAVORIT</helpFavorite>
+      <helpLaunch>JALANKAN</helpLaunch>
+      <helpBack>KEMBALI</helpBack>
+      <labelManufacturer>PRODUSEN:</labelManufacturer>
+      <labelDeveloper>PENGEMBANG:</labelDeveloper>
+      <selectedLanguage>Bahasa Terpilih: ID</selectedLanguage>
+      <videoLabel>Video Acak</videoLabel>
+      <enabledLabel>Ya</enabledLabel>
+      <disabledLabel>Tidak</disabledLabel>
+      <aspectRatioLabel>Rasio Layar</aspectRatioLabel>
+   </variables>
+</theme>

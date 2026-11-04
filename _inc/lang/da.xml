@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="da">
+      <playNow>SPIL NU</playNow>
+      <helpMenu>MENU</helpMenu>
+      <helpRandom>TILFÆLDIG</helpRandom>
+      <helpSelect>VÆLG</helpSelect>
+      <helpChoose>BLADRE</helpChoose>
+      <helpFavorite>FAVORIT</helpFavorite>
+      <helpLaunch>START</helpLaunch>
+      <helpBack>TILBAGE</helpBack>
+      <labelManufacturer>PRODUCENT:</labelManufacturer>
+      <labelDeveloper>UDVIKLER:</labelDeveloper>
+      <selectedLanguage>Valgt sprog: DA</selectedLanguage>
+      <videoLabel>Tilfældig video</videoLabel>
+      <enabledLabel>Ja</enabledLabel>
+      <disabledLabel>Nej</disabledLabel>
+      <aspectRatioLabel>Skærmformat</aspectRatioLabel>
+   </variables>
+</theme>

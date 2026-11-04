@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="de">
+      <playNow>JETZT SPIELEN</playNow>
+      <helpMenu>MENÜ</helpMenu>
+      <helpRandom>ZUFALL</helpRandom>
+      <helpSelect>AUSWÄHLEN</helpSelect>
+      <helpChoose>WÄHLEN</helpChoose>
+      <helpFavorite>FAVORIT</helpFavorite>
+      <helpLaunch>STARTEN</helpLaunch>
+      <helpBack>ZURÜCK</helpBack>
+      <labelManufacturer>HERSTELLER:</labelManufacturer>
+      <labelDeveloper>ENTWICKLER:</labelDeveloper>
+      <selectedLanguage>Ausgewählte Sprache: DE</selectedLanguage>
+      <videoLabel>Zufälliges Video</videoLabel>
+      <enabledLabel>Ja</enabledLabel>
+      <disabledLabel>Nein</disabledLabel>
+      <aspectRatioLabel>Seitenverhältnis</aspectRatioLabel>
+   </variables>
+</theme>

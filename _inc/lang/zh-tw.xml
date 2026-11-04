@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="zh-tw">
+      <playNow>立即遊玩</playNow>
+      <helpMenu>選單</helpMenu>
+      <helpRandom>隨機</helpRandom>
+      <helpSelect>選擇</helpSelect>
+      <helpChoose>選取</helpChoose>
+      <helpFavorite>收藏</helpFavorite>
+      <helpLaunch>執行</helpLaunch>
+      <helpBack>返回</helpBack>
+      <labelManufacturer>生產商:</labelManufacturer>
+      <labelDeveloper>開發商:</labelDeveloper>
+      <selectedLanguage>當前選擇語言: 中文(台灣)</selectedLanguage>
+      <videoLabel>隨機影片</videoLabel>
+      <enabledLabel>是</enabledLabel>
+      <disabledLabel>否</disabledLabel>
+      <aspectRatioLabel>螢幕比例</aspectRatioLabel>
+   </variables>
+</theme>

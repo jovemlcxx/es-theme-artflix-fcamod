@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="pl">
+      <playNow>GRAJ TERAZ</playNow>
+      <helpMenu>MENU</helpMenu>
+      <helpRandom>LOSOWO</helpRandom>
+      <helpSelect>WYBIERZ</helpSelect>
+      <helpChoose>PRZEGLĄDAJ</helpChoose>
+      <helpFavorite>ULUBIONE</helpFavorite>
+      <helpLaunch>URUCHOM</helpLaunch>
+      <helpBack>WSTECZ</helpBack>
+      <labelManufacturer>PRODUCENT:</labelManufacturer>
+      <labelDeveloper>DEWELOPER:</labelDeveloper>
+      <selectedLanguage>Wybrany język: PL</selectedLanguage>
+      <videoLabel>Losowy film</videoLabel>
+      <enabledLabel>Tak</enabledLabel>
+      <disabledLabel>Nie</disabledLabel>
+      <aspectRatioLabel>Proporcje ekranu</aspectRatioLabel>
+   </variables>
+</theme>

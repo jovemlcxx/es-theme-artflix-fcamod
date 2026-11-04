@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="sv">
+      <playNow>SPELA NU</playNow>
+      <helpMenu>MENY</helpMenu>
+      <helpRandom>SLUMP</helpRandom>
+      <helpSelect>VÄLJ</helpSelect>
+      <helpChoose>BLÄDDRA</helpChoose>
+      <helpFavorite>FAVORIT</helpFavorite>
+      <helpLaunch>STARTA</helpLaunch>
+      <helpBack>TILLBAKA</helpBack>
+      <labelManufacturer>TILLVERKARE:</labelManufacturer>
+      <labelDeveloper>UTVECKLARE:</labelDeveloper>
+      <selectedLanguage>Valt språk: SV</selectedLanguage>
+      <videoLabel>Slumpad video</videoLabel>
+      <enabledLabel>Ja</enabledLabel>
+      <disabledLabel>Nej</disabledLabel>
+      <aspectRatioLabel>Bildförhållande</aspectRatioLabel>
+   </variables>
+</theme>

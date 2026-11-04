@@ -1,0 +1,168 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <!-- Button legend (hand-made like the other themes': the native one does not fit the screen in most languages): the base's own entries and icons, 4 per screen, on the line of the clock -->
+   <view name="system">
+      <helpsystem name="help">
+         <textColor>00000000</textColor>
+         <iconColor>00000000</iconColor>
+      </helpsystem>
+      <image name="e_help_s0_icon" extra="true">
+         <path>./_inc/help/button_start.svg</path>
+         <pos>0.0300 0.9525</pos>
+         <size>0.0281 0.0375</size>
+         <color>ffffffcc</color>
+         <zIndex>90</zIndex>
+      </image>
+      <text name="e_help_s0_text" extra="true">
+         <text>${helpMenu}</text>
+         <pos>0.0640 0.9500</pos>
+         <size>0.115 0.0425</size>
+         <fontSize>0.0235</fontSize>
+         <fontPath>${fontBlack}</fontPath>
+         <color>ffffffcc</color>
+         <alignment>left</alignment>
+         <verticalAlignment>center</verticalAlignment>
+         <forceUppercase>true</forceUppercase>
+         <zIndex>90</zIndex>
+      </text>
+      <image name="e_help_s1_icon" extra="true">
+         <path>./_inc/help/button_x.svg</path>
+         <pos>0.1820 0.9525</pos>
+         <size>0.0281 0.0375</size>
+         <color>ffffffcc</color>
+         <zIndex>90</zIndex>
+      </image>
+      <text name="e_help_s1_text" extra="true">
+         <text>${helpRandom}</text>
+         <pos>0.2160 0.9500</pos>
+         <size>0.115 0.0425</size>
+         <fontSize>0.0235</fontSize>
+         <fontPath>${fontBlack}</fontPath>
+         <color>ffffffcc</color>
+         <alignment>left</alignment>
+         <verticalAlignment>center</verticalAlignment>
+         <forceUppercase>true</forceUppercase>
+         <zIndex>90</zIndex>
+      </text>
+      <image name="e_help_s2_icon" extra="true">
+         <path>./_inc/help/button_a.svg</path>
+         <pos>0.3340 0.9525</pos>
+         <size>0.0281 0.0375</size>
+         <color>ffffffcc</color>
+         <zIndex>90</zIndex>
+      </image>
+      <text name="e_help_s2_text" extra="true">
+         <text>${helpSelect}</text>
+         <pos>0.3680 0.9500</pos>
+         <size>0.115 0.0425</size>
+         <fontSize>0.0235</fontSize>
+         <fontPath>${fontBlack}</fontPath>
+         <color>ffffffcc</color>
+         <alignment>left</alignment>
+         <verticalAlignment>center</verticalAlignment>
+         <forceUppercase>true</forceUppercase>
+         <zIndex>90</zIndex>
+      </text>
+      <image name="e_help_s3_icon" extra="true">
+         <path>./_inc/help/dpad_all.svg</path>
+         <pos>0.4860 0.9525</pos>
+         <size>0.0281 0.0375</size>
+         <color>ffffffcc</color>
+         <zIndex>90</zIndex>
+      </image>
+      <text name="e_help_s3_text" extra="true">
+         <text>${helpChoose}</text>
+         <pos>0.5200 0.9500</pos>
+         <size>0.115 0.0425</size>
+         <fontSize>0.0235</fontSize>
+         <fontPath>${fontBlack}</fontPath>
+         <color>ffffffcc</color>
+         <alignment>left</alignment>
+         <verticalAlignment>center</verticalAlignment>
+         <forceUppercase>true</forceUppercase>
+         <zIndex>90</zIndex>
+      </text>
+   </view>
+   <view name="grid">
+      <helpsystem name="help">
+         <textColor>00000000</textColor>
+         <iconColor>00000000</iconColor>
+      </helpsystem>
+      <image name="e_help_g0_icon" extra="true">
+         <path>./_inc/help/button_start.svg</path>
+         <pos>0.0300 0.9525</pos>
+         <size>0.0281 0.0375</size>
+         <color>ffffffcc</color>
+         <zIndex>90</zIndex>
+      </image>
+      <text name="e_help_g0_text" extra="true">
+         <text>${helpMenu}</text>
+         <pos>0.0640 0.9500</pos>
+         <size>0.115 0.0425</size>
+         <fontSize>0.0235</fontSize>
+         <fontPath>${fontBlack}</fontPath>
+         <color>ffffffcc</color>
+         <alignment>left</alignment>
+         <verticalAlignment>center</verticalAlignment>
+         <forceUppercase>true</forceUppercase>
+         <zIndex>90</zIndex>
+      </text>
+      <image name="e_help_g1_icon" extra="true">
+         <path>./_inc/help/button_y.svg</path>
+         <pos>0.1820 0.9525</pos>
+         <size>0.0281 0.0375</size>
+         <color>ffffffcc</color>
+         <zIndex>90</zIndex>
+      </image>
+      <text name="e_help_g1_text" extra="true">
+         <text>${helpFavorite}</text>
+         <pos>0.2160 0.9500</pos>
+         <size>0.115 0.0425</size>
+         <fontSize>0.0235</fontSize>
+         <fontPath>${fontBlack}</fontPath>
+         <color>ffffffcc</color>
+         <alignment>left</alignment>
+         <verticalAlignment>center</verticalAlignment>
+         <forceUppercase>true</forceUppercase>
+         <zIndex>90</zIndex>
+      </text>
+      <image name="e_help_g2_icon" extra="true">
+         <path>./_inc/help/button_a.svg</path>
+         <pos>0.3340 0.9525</pos>
+         <size>0.0281 0.0375</size>
+         <color>ffffffcc</color>
+         <zIndex>90</zIndex>
+      </image>
+      <text name="e_help_g2_text" extra="true">
+         <text>${helpLaunch}</text>
+         <pos>0.3680 0.9500</pos>
+         <size>0.115 0.0425</size>
+         <fontSize>0.0235</fontSize>
+         <fontPath>${fontBlack}</fontPath>
+         <color>ffffffcc</color>
+         <alignment>left</alignment>
+         <verticalAlignment>center</verticalAlignment>
+         <forceUppercase>true</forceUppercase>
+         <zIndex>90</zIndex>
+      </text>
+      <image name="e_help_g3_icon" extra="true">
+         <path>./_inc/help/button_b.svg</path>
+         <pos>0.4860 0.9525</pos>
+         <size>0.0281 0.0375</size>
+         <color>ffffffcc</color>
+         <zIndex>90</zIndex>
+      </image>
+      <text name="e_help_g3_text" extra="true">
+         <text>${helpBack}</text>
+         <pos>0.5200 0.9500</pos>
+         <size>0.115 0.0425</size>
+         <fontSize>0.0235</fontSize>
+         <fontPath>${fontBlack}</fontPath>
+         <color>ffffffcc</color>
+         <alignment>left</alignment>
+         <verticalAlignment>center</verticalAlignment>
+         <forceUppercase>true</forceUppercase>
+         <zIndex>90</zIndex>
+      </text>
+   </view>
+</theme>

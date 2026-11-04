@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="tr">
+      <playNow>ŞİMDİ OYNA</playNow>
+      <helpMenu>MENÜ</helpMenu>
+      <helpRandom>RASTGELE</helpRandom>
+      <helpSelect>SEÇ</helpSelect>
+      <helpChoose>GEZİN</helpChoose>
+      <helpFavorite>FAVORİ</helpFavorite>
+      <helpLaunch>BAŞLAT</helpLaunch>
+      <helpBack>GERİ</helpBack>
+      <labelManufacturer>ÜRETİCİ:</labelManufacturer>
+      <labelDeveloper>GELİŞTİRİCİ:</labelDeveloper>
+      <selectedLanguage>Seçilen Dil: TR</selectedLanguage>
+      <videoLabel>Rastgele Video</videoLabel>
+      <enabledLabel>Evet</enabledLabel>
+      <disabledLabel>Hayır</disabledLabel>
+      <aspectRatioLabel>Ekran Oranı</aspectRatioLabel>
+   </variables>
+</theme>

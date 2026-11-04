@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="pt,br">
+      <playNow>JOGAR AGORA</playNow>
+      <helpMenu>MENU</helpMenu>
+      <helpRandom>ALEATÓRIO</helpRandom>
+      <helpSelect>SELECIONAR</helpSelect>
+      <helpChoose>ESCOLHER</helpChoose>
+      <helpFavorite>FAVORITO</helpFavorite>
+      <helpLaunch>EXECUTAR</helpLaunch>
+      <helpBack>VOLTAR</helpBack>
+      <labelManufacturer>FABRICANTE:</labelManufacturer>
+      <labelDeveloper>DESENVOLVEDOR:</labelDeveloper>
+      <selectedLanguage>Idioma Selecionado: PT(BR)</selectedLanguage>
+      <videoLabel>Vídeo Aleatório</videoLabel>
+      <enabledLabel>Sim</enabledLabel>
+      <disabledLabel>Não</disabledLabel>
+      <aspectRatioLabel>Proporção de Tela</aspectRatioLabel>
+   </variables>
+</theme>

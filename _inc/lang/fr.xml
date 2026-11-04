@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="fr">
+      <playNow>JOUER</playNow>
+      <helpMenu>MENU</helpMenu>
+      <helpRandom>ALÉATOIRE</helpRandom>
+      <helpSelect>SÉLECTIONNER</helpSelect>
+      <helpChoose>CHOISIR</helpChoose>
+      <helpFavorite>FAVORI</helpFavorite>
+      <helpLaunch>LANCER</helpLaunch>
+      <helpBack>RETOUR</helpBack>
+      <labelManufacturer>FABRICANT:</labelManufacturer>
+      <labelDeveloper>DÉVELOPPEUR:</labelDeveloper>
+      <selectedLanguage>Langue Choisie: FR</selectedLanguage>
+      <videoLabel>Vidéo Aléatoire</videoLabel>
+      <enabledLabel>Oui</enabledLabel>
+      <disabledLabel>Non</disabledLabel>
+      <aspectRatioLabel>Format d'Écran</aspectRatioLabel>
+   </variables>
+</theme>

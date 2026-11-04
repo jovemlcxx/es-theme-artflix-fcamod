@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="fi">
+      <playNow>PELAA NYT</playNow>
+      <helpMenu>VALIKKO</helpMenu>
+      <helpRandom>SATUNNAINEN</helpRandom>
+      <helpSelect>VALITSE</helpSelect>
+      <helpChoose>SELAA</helpChoose>
+      <helpFavorite>SUOSIKKI</helpFavorite>
+      <helpLaunch>KÄYNNISTÄ</helpLaunch>
+      <helpBack>TAKAISIN</helpBack>
+      <labelManufacturer>VALMISTAJA:</labelManufacturer>
+      <labelDeveloper>KEHITTÄJÄ:</labelDeveloper>
+      <selectedLanguage>Valittu kieli: FI</selectedLanguage>
+      <videoLabel>Satunnainen video</videoLabel>
+      <enabledLabel>Kyllä</enabledLabel>
+      <disabledLabel>Ei</disabledLabel>
+      <aspectRatioLabel>Kuvasuhde</aspectRatioLabel>
+   </variables>
+</theme>

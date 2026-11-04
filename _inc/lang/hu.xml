@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="hu">
+      <playNow>JÁTSZ MOST</playNow>
+      <helpMenu>MENÜ</helpMenu>
+      <helpRandom>VÉLETLEN</helpRandom>
+      <helpSelect>KIVÁLASZT</helpSelect>
+      <helpChoose>BÖNGÉSZ</helpChoose>
+      <helpFavorite>KEDVENC</helpFavorite>
+      <helpLaunch>INDÍT</helpLaunch>
+      <helpBack>VISSZA</helpBack>
+      <labelManufacturer>GYÁRTÓ:</labelManufacturer>
+      <labelDeveloper>FEJLESZTŐ:</labelDeveloper>
+      <selectedLanguage>Kiválasztott nyelv: HU</selectedLanguage>
+      <videoLabel>Véletlen videó</videoLabel>
+      <enabledLabel>Igen</enabledLabel>
+      <disabledLabel>Nem</disabledLabel>
+      <aspectRatioLabel>Képarány</aspectRatioLabel>
+   </variables>
+</theme>

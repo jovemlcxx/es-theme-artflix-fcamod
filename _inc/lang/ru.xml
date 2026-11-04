@@ -1,0 +1,20 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   <variables lang="ru">
+      <playNow>ИГРАТЬ</playNow>
+      <helpMenu>МЕНЮ</helpMenu>
+      <helpRandom>СЛУЧАЙНО</helpRandom>
+      <helpSelect>ВЫБРАТЬ</helpSelect>
+      <helpChoose>ВЫБОР</helpChoose>
+      <helpFavorite>ИЗБРАННОЕ</helpFavorite>
+      <helpLaunch>ЗАПУСК</helpLaunch>
+      <helpBack>НАЗАД</helpBack>
+      <labelManufacturer>ПРОИЗВОДИТЕЛЬ:</labelManufacturer>
+      <labelDeveloper>РАЗРАБОТЧИК:</labelDeveloper>
+      <selectedLanguage>Выбранный язык: RU</selectedLanguage>
+      <videoLabel>Случайное видео</videoLabel>
+      <enabledLabel>Да</enabledLabel>
+      <disabledLabel>Нет</disabledLabel>
+      <aspectRatioLabel>Соотношение сторон</aspectRatioLabel>
+   </variables>
+</theme>
