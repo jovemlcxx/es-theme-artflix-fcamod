@@ -84,7 +84,7 @@
       </batteryIndicator>
    </view>
 
-   <!-- the base's menu: red titles, grey text, red selector with a gradient, dark frame -->
+   <!-- the base's menu: red titles, light grey text, red selector with a gradient, OPAQUE dark frame (the base's frame is 85 % opaque: the system art and its texts showed through and the menu could not be read) -->
    <view name="menu">
       <menuText name="menutitle">
          <fontPath>${fontSemi}</fontPath>
@@ -94,12 +94,12 @@
       <menuText name="menufooter">
          <fontPath>${fontLight}</fontPath>
          <fontSize>0.023</fontSize>
-         <color>868686</color>
+         <color>a8a8a8</color>
       </menuText>
       <menuText name="menutext">
-         <fontPath>${fontLight}</fontPath>
+         <fontPath>${fontBook}</fontPath>
          <fontSize>0.029</fontSize>
-         <color>868686</color>
+         <color>bdbdbd</color>
          <separatorColor>191919</separatorColor>
          <selectorColor>d90f1a</selectorColor>
          <selectorColorEnd>f60915</selectorColorEnd>
@@ -114,7 +114,7 @@
       <menuBackground name="menubg">
          <color>0a0b0c</color>
          <cornerSize>32 32</cornerSize>
-         <path>./_inc/frame.png</path>
+         <path>./_inc/frame-opaque.png</path>
       </menuBackground>
       <menuIcons name="menuicons">
          <iconKodi>./_inc/icons/Kodi.png</iconKodi>
